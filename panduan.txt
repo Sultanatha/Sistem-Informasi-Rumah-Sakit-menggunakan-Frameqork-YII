@@ -1,0 +1,5 @@
+untuk mengakses user konfirmasi menggunakan
+/user/admin
+
+sedangkan mengakses untuk admin dan rolena menggunakan 
+/admin
